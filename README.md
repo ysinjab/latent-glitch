@@ -8,12 +8,12 @@ Spatial AI Ecologies explores creative AI in a collaborative fashion to produce 
 
 
 The following algorithms have been used:
-* **3D GAN**: Following this paper we built a GAN model that generates AI 3D meshes. Check [michleangelo](https://github.com/ysinjab/latent-glitch/tree/main/michelangelo)
+* **3D GAN**: Following this paper [Improved Adversarial Systems for 3D Object Generation and Reconstruction
+](https://arxiv.org/abs/1707.09557) we built a GAN model that generates AI 3D meshes. Check [michleangelo](https://github.com/ysinjab/latent-glitch/tree/main/michelangelo)
 
+* **AI Generated music**: We used [Open AI Jukebox](https://openai.com/blog/jukebox/) to generate music. The notebook can be found here: [jukebox.ipynb](jukebox.ipynb) and here you can find samples of the [results](https://drive.google.com/drive/folders/1Rpavs5GyU_tbippR_llm6VVSjo1DPmM-?usp=sharing).
 
-## Michleangelo
-
-## Music part
+##  part
 
 chec jukebox.ipynb
 
