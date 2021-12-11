@@ -19,3 +19,9 @@ MeshRCNN.ipynb includes using Mesh-RCNN algorithm to predict 3D meshes from 2D i
 
 ## PIF
 
+
+<br />
+
+## VQGAN+CLIP
+We used VQGAN+CLIP to generate 
+The final result can be found here :https://drive.google.com/drive/folders/1nuqL9pS9_l9iP_-WEt4TAdDa5bQjVIbY?usp=sharing
