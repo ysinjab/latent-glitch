@@ -26,3 +26,8 @@ In order to train machine learning model it is required to create 3d array to re
 
 ## Training and generating 3D objects
 In Michelangelo.ipynb you will find the implmenetation of GAN netowrk to generate 3D meshes. Samples of training and checkpoints will be found on google drive : https://drive.google.com/drive/folders/15dMzHRn7M-jKd-B5olve6ZwBS93FX5bp?usp=sharing
+
+### Samples Output 
+
+<img src="./output_0.png" width="250" height="250" />
+<img src="./output_1.png" width="250" height="250" />
