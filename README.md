@@ -19,8 +19,4 @@ The following algorithms have been used:
 
 * **PIFuHD**: We used [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/) to reconstruct 3D representation object from of a 2D image. The notebook can be found here: [PIFuHD.ipynb](PIFuHD.ipynb)
 
-* **VQGAN+CLIP**: We used [VQGAN](https://github.com/CompVis/taming-transformers) and [CLIP](https://openai.com/blog/clip/) to generate images from a text prompt. The notebook can be found here: [VQGAN+CLIP.ipynb](VQGAN+CLIP.ipynb)
-
-## 
-We used VQGAN+CLIP to generate 
-The final result can be found here :https://drive.google.com/drive/folders/1nuqL9pS9_l9iP_-WEt4TAdDa5bQjVIbY?usp=sharing
+* **VQGAN+CLIP**: We used [VQGAN](https://github.com/CompVis/taming-transformers) and [CLIP](https://openai.com/blog/clip/) to generate images from a text prompt. The notebook can be found here: [VQGAN+CLIP.ipynb](VQGAN+CLIP.ipynb). Results can be found here: https://drive.google.com/drive/folders/1nuqL9pS9_l9iP_-WEt4TAdDa5bQjVIbY?usp=sharing
