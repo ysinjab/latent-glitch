@@ -8,7 +8,7 @@ Spatial AI Ecologies explores creative AI in a collaborative fashion to produce 
 
 
 The following algorithms have been used:
-* **3D GAN**: Following this paper we built a GAN model that generates AI 3D meshes. Check [michleangelo](latent-glitch/tree/master/michleangelo)
+* **3D GAN**: Following this paper we built a GAN model that generates AI 3D meshes. Check [michleangelo](latent/tree/main/michleangelo)
 
 
 ## Michleangelo
