@@ -1,6 +1,6 @@
 # Michleangelo
 
-Here you will find all the materials used to generate AI 3D meshes objects.
+Here you will find all the materials used to train & generate AI 3D meshes objects.
 
 <br />
 
@@ -22,7 +22,7 @@ Points file contains the points of all generated meshes. Reference file denotes 
 
 ### Processing
 
-In order to train machine learning model it is required to create 3d array to represent those meshes. In Michelangelo_data.ipynb you will find all the steps where it ends by saving those arrays on disk as .npz files using numpy library.
+In order to train machine learning model it is required to create 3d array to represent those voxel meshes. In Michelangelo_data.ipynb you will find all the steps where it ends by saving those arrays on disk as .npz files using numpy library.
 
 ## Training and generating 3D objects
 In Michelangelo.ipynb you will find the implmenetation of GAN netowrk to generate 3D meshes. Samples of training and checkpoints will be found on google drive : https://drive.google.com/drive/folders/15dMzHRn7M-jKd-B5olve6ZwBS93FX5bp?usp=sharing
