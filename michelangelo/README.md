@@ -29,5 +29,5 @@ In Michelangelo.ipynb you will find the implmenetation of GAN netowrk to generat
 
 ### Samples Output 
 
-<img src="./output_0.png" width="250" height="250" />
-<img src="./output_1.png" width="250" height="250" />
+<!-- <img src="./output_0.png" width="250" height="250" /> -->
+<img src="./output_1.jpg" width="250" height="250" />
