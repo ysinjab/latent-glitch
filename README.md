@@ -14,14 +14,10 @@ The following algorithms have been used:
 * **AI Generated music**: We used [Open AI Jukebox](https://openai.com/blog/jukebox/) to generate music. The notebook can be found here: [jukebox.ipynb](jukebox.ipynb) and here you can find samples of the [results](https://drive.google.com/drive/folders/1Rpavs5GyU_tbippR_llm6VVSjo1DPmM-?usp=sharing).
 
 * **Text to image**: We used [Open AI DALL-E](hhttps://openai.com/blog/dall-e/) to generate images from text. The notebook can be found here: [text_to_image_dalle_ipynb.ipynb](text_to_image_dalle_ipynb.ipynb)
-## 
-text_to_image_dalle_ipynb.ipynb has the implementation where we used DALL-E to generate images from text.
 
+* **MeshRCNN**: MeshRCNN can predict 3D objects from 2D images. The notebook can be found here: [MeshRCNN.ipynb](MeshRCNN.ipynb)
 
-## Predict 3D objects from 2D images
-
-MeshRCNN.ipynb includes using Mesh-RCNN algorithm to predict 3D meshes from 2D image. The output is .obj files
-
+* **PIFuHD**: We used [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/) to reconstruct 3D representation object from of a 2D image. The notebook can be found here: [PIFuHD.ipynb](PIFuHD.ipynb)
 
 ## PIF
 
